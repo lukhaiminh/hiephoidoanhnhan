@@ -1,0 +1,48 @@
+#############
+## XenForo
+#############
+
+# Folders
+diendan/data/**/*
+diendan/install/**/*
+diendan/internal_data/**/*
+
+# JS Folders
+diendan/js/flot/**/*
+diendan/js/jquery/**/*
+diendan/js/redactor/**/*
+diendan/js/swfupload/**/*
+diendan/js/sortable/**/*
+diendan/js/xenforo/**/*
+diendan/js/index.html
+
+# Styles
+diendan/styles/default/xenforo/**/*
+diendan/styles/default/xenresource/**/*
+diendan/styles/default/index.html
+diendan/styles/index.html
+
+# Library
+diendan/library/Lgpl/**/*
+diendan/library/Minify/**/*
+diendan/library/Sabre/**/*
+diendan/library/XenForo/**/*
+diendan/library/XFCliImporter/**/*
+diendan/library/Zend/**/*
+diendan/library/.htaccess
+diendan/library/config.php.default
+diendan/library/config.php
+diendan/library/index.html
+
+# Root Files
+diendan/admin.php
+diendan/admindav.php
+diendan/css.php
+diendan/deferred.php
+diendan/fb_channel.php
+diendan/htaccess.txt
+diendan/.htaccess
+diendan/index.php
+diendan/payment_callback.php
+diendan/rgba.php
+diendan/proxy.php
