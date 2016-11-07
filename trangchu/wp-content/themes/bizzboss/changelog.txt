@@ -67,3 +67,6 @@ i) Fixed sidebar issue.
 
 Version 1.0.18 (28-10-2016)
 i) Fixed mobile menu issue.
+
+Version 1.0.19 (01-11-2016)
+i) Fixed mobile menu issue.

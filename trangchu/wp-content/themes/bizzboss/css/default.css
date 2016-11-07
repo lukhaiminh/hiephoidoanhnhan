@@ -1871,6 +1871,7 @@ div.wpcf7-validation-errors {
     #cssmenu ul#menu-menu{
         max-height: 350px;
         overflow-y: auto;
+        max-height: calc(100vh - 90px);
     }
     #cssmenu > ul > li > a {
         padding: 17px 9px 17px 9px;

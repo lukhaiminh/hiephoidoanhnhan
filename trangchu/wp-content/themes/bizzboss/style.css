@@ -4,7 +4,7 @@ Theme URI: https://indigothemes.com/products/bizzboss-wordpress-theme/
 Author: IndigoThemes
 Author URI: https://indigothemes.com
 Description: Bizzboss is a clean, super flexible , fast in loading, bootstrap based , mobile responsive and modern looking premium quality WordPress theme. It can be used for any niche business or personal website. It uses SiteOrigin page builder which makes it completely flexible to design as many different layouts as you want. Demo link of Bizzboss : http://demo.indigothemes.com/wordpress-themes/bizzboss/    and  documentation link of Bizzboss theme is https://indigothemes.com/documentation/bizzboss/   Bizzboss Pro is a premium version of Bizzboss and it has loads of custom widgets, custom options for Unlimited colors etc, Unlimited Google Fonts etc options. Bizzboss Pro has 1 click import demo functionality using which you can choose to create a website from 10 different niches in just 1 click. Bizzboss Pro demo link : http://demo.indigothemes.com/wordpress-themes/bizzboss-pro/   Bizzboss Pro documentation link : https://indigothemes.com/documentation/bizzbosspro/   We offer premium support to our Bizzboss Pro customers with within 24 hrs issue resolution guarantee.  We also offer a PAID, Done-For-You service to our Bizzboss Pro customers who want us to us to develop their website using Bizzboss Pro. Check out amazing features of the Bizzboss Pro theme here : https://indigothemes.com/products/bizzboss-pro-wordpress-theme/
-Version: 1.0.18
+Version: 1.0.19
 License: GNU GENERAL PUBLIC LICENSE, Version 3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: bizzboss
@@ -201,3 +201,6 @@ pre{
 .depth-5{padding-left: 120px;}
 .depth-6{padding-left: 150px;}
 .depth-7{padding-left: 180px;}
+
+/* KM custom */
+.heading .row .title {visibility: hidden};
